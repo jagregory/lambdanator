@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdanator", "Lambdanator\Lambdanator.csproj", "{BC95BBA5-1A06-41F8-A2FE-77ACEB1B8B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{4D3609E6-9650-4F3B-AB5C-2C6FB477D12E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC95BBA5-1A06-41F8-A2FE-77ACEB1B8B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC95BBA5-1A06-41F8-A2FE-77ACEB1B8B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC95BBA5-1A06-41F8-A2FE-77ACEB1B8B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC95BBA5-1A06-41F8-A2FE-77ACEB1B8B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3609E6-9650-4F3B-AB5C-2C6FB477D12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3609E6-9650-4F3B-AB5C-2C6FB477D12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3609E6-9650-4F3B-AB5C-2C6FB477D12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3609E6-9650-4F3B-AB5C-2C6FB477D12E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

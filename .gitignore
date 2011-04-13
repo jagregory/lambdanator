@@ -1,0 +1,15 @@
+build/
+dist/
+**/*.suo
+**/*.user
+bin
+obj
+_ReSharper*
+*.csproj.user
+*.suo
+*.cache
+*.user
+*~
+*.swp
+*.bak
+TestResult.xml
